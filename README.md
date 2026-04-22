@@ -7,7 +7,7 @@ This project is built using **HTML + Tailwind CSS** and showcases a clean UI, re
 
 ## 🌐 Live Preview
 
-> (Add your deployed link here – e.g., Vercel / Netlify)
+https://landing-page-ankit.netlify.app/
 
 ---
 
